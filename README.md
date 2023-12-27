@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm Iran Udesha</h1>
-<p align="left">I am a passionate DevOps and Cloud Engineer with a BSc.(Hons) in Computer Science. Welcome to my GitHub profile! 🚀</p>
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" "><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" ">
+
+<p align="center">I am a passionate DevOps and Cloud Engineer with a BSc.(Hons) in Computer Science. Welcome to my GitHub profile! 🚀</p>
+
+</div>
+
+<br clear="both"> 
+
 <div> <a href="https://www.linkedin.com/in/iran-udesha-38a07623" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/iranudesha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+</div>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iran-udesha-38a07623" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="iran-udesha-38a07623" height="30" width="40" /></a><a href="https://medium.com/iranudesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="iranudesha" height="30" width="40" /></a><a href="https://dev.to/iranudesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="iranudesha" height="30" width="40" /></a></p>
 
